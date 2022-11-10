@@ -8,5 +8,5 @@ First of all, welcome to the IVE-LWL robocon team. The aim of the team is for ga
 
 # What is Robocon? 甚麼是「全港大專生機械人大賽」?
 Robocon is an intra-university robot competition. 2 teams re It organizes once per year. Each year has different theme, topic and holding place. It means that we need to build new robots and visit to different country each year. You will not feel bored :) . The champion of Hong Kong region can represent the team of Hong Kong to join the the international competition.<br>
-顧名思義,「全港大專生機械人大賽」是一個跨大專院校的機械人比賽, 每間院校最多派出2隊隊伍出賽。這比賽每年會舉辦一次, 每次的主題、需完成的任務、主辦國都不一樣, 這代表我們每一年都需要重新設計及組裝, 以符合該年的任務。在香港區勝出的隊伍能代表香港到該年的主辦國, 參加「亞太廣播聯盟機械人大賽」, 即國際賽。<br>
+顧名思義,「全港大專生機械人大賽」是一個跨大專院校的機械人比賽, 每間院校最多派出2隊隊伍出賽。這比賽每年會舉辦一次, 每次的主題、需完成的任務、主辦國都不一樣, 這代表我們每一年都需要重新設計及組裝, 以符合該年的任務。在香港區勝出的隊伍能代表香港到該年的主辦國, 參加「亞太廣播聯盟機械人大賽」, 即國際賽。更多資訊,請參考[維基百科](https://zh.wikipedia.org/wiki/%E5%85%A8%E6%B8%AF%E5%A4%A7%E5%B0%88%E7%94%9F%E6%A9%9F%E6%A2%B0%E4%BA%BA%E5%A4%A7%E8%B3%BD)<br>
 
